@@ -12,12 +12,12 @@
 ### Ele contém :
 ```javascript
 {
-   "nome": number,
-    "Autor": string,
-    "Categoria":string,
-    "Número de páginas": number,
-    "Gostou": boolean,
-    "Lido": boolean
+   "nome": string,
+   "Autor": string,
+   "Categoria":string,
+   "Número de páginas": number,
+   "Gostou": boolean,
+   "Lido": boolean
 }
 ```
 ---
@@ -200,7 +200,7 @@ db.getCollection('livros').find(
 )
 ```
 
-* Também combinei aos argumentos 
+* Também combinei os argumentos 
 
 ```javascript
 db.getCollection('livros').find(
