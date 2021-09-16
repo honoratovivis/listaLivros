@@ -1,162 +1,162 @@
 [{
-    "Nome": "1984",
+    "Nome_da_obra": "1984",
+    "descricao": "",
+    "Data_de_publicação": "",
     "Autor": "George Orwell",
-    "Categoria":"Ficção Politica",
-    "Número de paginas": 328,
-    "Gostou": true,
-    "Lido": true
-
+    "Categoria":"Ficção Politica"
+    
+   
 },
 
 {
-    "Nome": "Admirável Mundo Novo ",
+    "Nome_da_obra": "Admirável Mundo Novo ",
+    "descricao": "",
+    "Data_de_publicação": "",
     "Autor": "Aldous Huxley",
-    "Categoria":"Ficção Científica",
-    "Número de paginas": 311,
-    "Gostou": true,
-    "Lido": true
+    "Categoria":"Ficção Científica"
+    
 },
 
 {
-    "Nome": "Frankenstein",
+    "Nome_da_obra": "Frankenstein",
+    "descricao": "",
+    "Data_de_publicação": "",
     "Autor": "Mary Shelley",
-    "Categoria":"Ficção Científica",  
-    "Número de paginas": 280,
-    "Gostou": true,
-    "Lido": true
+    "Categoria":"Ficção Científica"  
+    
 },
 
 {
-    "Nome": "Jogador Número 1",
+    "Nome_da_obra": "Jogador Número 1",
+    "descricao": "",
+    "Data_de_publicação": "",
     "Autor": "Ernest Cline",
-    "Categoria": "Ficção Científica",
-    "Número de paginas": 374,
-    "Gostou": true,
-    "Lido": false
+    "Categoria": "Ficção Científica"
+    
 },
 
 {
-    "Nome": "O mochileiro das galáxias – Livro 1",
+    "Nome_da_obra": "O mochileiro das galáxias – Livro 1",
+    "descricao": "",
+    "Data_de_publicação": "",
     "Autor": "Douglas Adams",
-    "Categoria": "Ficção Científica",
-    "Número de paginas": 	208,
-    "Gostou": true,
-    "Lido": true
+    "Categoria": "Ficção Científica"
+    
 },
 
 {
-    "Nome": "O restaurante no fim do universo - O mochileiro das galáxias – Livro 2",
+    "Nome_da_obra": "O restaurante no fim do universo - O mochileiro das galáxias – Livro 2",
+    "descricao": "",
+    "Data_de_publicação": "",
     "Autor": "Douglas Adams",
-    "Categoria": "Ficção Científica",
-    "Número de paginas": 240,
-    "Gostou": true,
-    "Lido": true
+    "Categoria": "Ficção Científica"
+    
 },
 
 {
-    "Nome": "A vida, o universo e tudo mais - O mochileiro das galáxias – Livro 3",
+    "Nome_da_obra": "A vida, o universo e tudo mais - O mochileiro das galáxias – Livro 3",
+    "descricao": "",
+    "Data_de_publicação": "",
     "Autor": "Douglas Adams",
-    "Categoria": "Ficção Científica",
-    "Número de paginas": 224,
-    "Gostou": true,
-    "Lido": true
+    "Categoria": "Ficção Científica"
+    
 },
 
 {
-    "Nome": "Até mais, e obrigado pelos peixes! - O mochileiro das galáxias – Livro 4",
+    "Nome_da_obra": "Até mais, e obrigado pelos peixes! - O mochileiro das galáxias – Livro 4",
+    "descricao": "",
+    "Data_de_publicação": "",
     "Autor": "Douglas Adams",
-    "Categoria": "Ficção Científica",
-    "Número de paginas": 208,
-    "Gostou": true,
-    "Lido": true
+    "Categoria": "Ficção Científica"
+    
 },
 
 {
-    "Nome": "Praticamente inofensiva - O mochileiro das galáxias – Livro 5",
+    "Nome_da_obra": "Praticamente inofensiva - O mochileiro das galáxias – Livro 5",
+    "descricao": "",
+    "Data_de_publicação": "",
     "Autor": "Douglas Adams",
-    "Categoria": "Ficção Científica",
-    "Número de paginas": 208,
-    "Gostou": true,
-    "Lido": true
+    "Categoria": "Ficção Científica"
+    
 },
 
 {
-    "Nome": "E tem outra coisa - O mochileiro das galáxias – Livro 6",
+    "Nome_da_obra": "E tem outra coisa - O mochileiro das galáxias – Livro 6",
+    "descricao": "",
+    "Data_de_publicação": "",
     "Autor": "Douglas Adams",
-    "Categoria": "Ficção Científica",
-    "Número de paginas": 112,
-    "Gostou": true,
-    "Lido": false
+    "Categoria": "Ficção Científica"
+    
 },
 
 {
-    "Nome": "Island - A ilha",
+    "Nome_da_obra": "Island - A ilha",
+    "descricao": "",
+    "Data_de_publicação": "",
     "Autor": "Aldous Huxley",
-    "Categoria": "Ficção Filosófica",
-    "Número de paginas": 384,
-    "Gostou": true,
-    "Lido":true
+    "Categoria": "Ficção Filosófica"
+    
 },
 
 {
-    "Nome": "O Mundo de Sofia",
+    "Nome_da_obra": "O Mundo de Sofia",
+    "descricao": "",
+    "Data_de_publicação": "",
     "Autor": "Jostein Gaarder",
-    "Categoria": "Ficção Filosófica",
-    "Número de paginas": 448,
-    "Gostou": true,
-    "Lido": true
+    "Categoria": "Ficção Filosófica"
+    
 },
 
 {
-    "Nome": "Assim Falou Zaratustra",
+    "Nome_da_obra": "Assim Falou Zaratustra",
+    "descricao": "",
+    "Data_de_publicação": "",
     "Autor": "Friedrich Nietzsche",
-    "Categoria": "Ficção Filosófica",
-    "Número de paginas": 518,
-    "Gostou": true,
-    "Lido": true
+    "Categoria": "Ficção Filosófica"
+    
 },
 
 {
-    "Nome": "O Principe",
+    "Nome_da_obra": "O Principe",
+    "descricao": "",
+    "Data_de_publicação": "",
     "Autor": "Niccolò Machiavelli",
-    "Categoria": "Ficção Filosófica",
-    "Número de paginas": 176,
-    "Gostou": true,
-    "Lido": true
+    "Categoria": "Ficção Filosófica"
+    
 },
 
 {
-    "Nome": "A invenção das mulheres",
+    "Nome_da_obra": "A invenção das mulheres",
+    "descricao": "",
+    "Data_de_publicação": "",
     "Autor": "Oyeronke Oyewumi",
-    "Categoria": "Ciências Sociais",
-    "Número de paginas": 324,
-    "Gostou": true,
-    "Lido": true
+    "Categoria": "Ciências Sociais"
+    
 },
 
 {
-    "Nome": "Almakia I: A vilashi e os Dragões ",
+    "Nome_da_obra": "Almakia I: A vilashi e os Dragões ",
+    "descricao": "",
+    "Data_de_publicação": "",
     "Autor": "Lhaisa Andria",
-    "Categoria": "Fantasia",
-    "Número de paginas": 468,
-    "Gostou": true,
-    "Lido": true
+    "Categoria": "Fantasia"
+    
 },
 
 {
-    "Nome": "Contos de Imaginação e Mistério ",
+    "Nome_da_obra": "Contos de Imaginação e Mistério ",
+    "descricao": "",
+    "Data_de_publicação": "",
     "Autor": "Edgar Allan Poe",
-    "Categoria": "Terror",
-    "Número de paginas": 424,
-    "Gostou": true,
-    "Lido": true
+    "Categoria": "Terror"
+    
 },
 
 {
-    "Nome": "Uma história feita por mãos negras",
+    "Nome_da_obra": "Uma história feita por mãos negras",
+    "descricao": "",
+    "Data_de_publicação": "",
     "Autor": "Beatriz Nascimento",
-    "Categoria": "Ciências Sociais",
-    "Número de paginas": 424,
-    "Gostou": true,
-    "Lido": true
+    "Categoria": "Ciências Sociais"
+    
 }]
