@@ -1,7 +1,8 @@
+
 [{
     "Nome_da_obra": "1984",
-    "descricao": "",
-    "Data_de_publicação": "",
+    "descricao": "Mil Novecentos e Oitenta e Quatro, muitas vezes publicado como 1984, é um romance distópico da autoria do escritor britânico George Orwell e publicado em 1949.",
+    "Data_de_publicação": "08/06/1949",
     "Autor": "George Orwell",
     "Categoria":"Ficção Politica"
     
@@ -9,9 +10,9 @@
 },
 
 {
-    "Nome_da_obra": "Admirável Mundo Novo ",
-    "descricao": "",
-    "Data_de_publicação": "",
+    "Nome_da_obra": "Admirável Mundo Novo",
+    "descricao": "Admirável Mundo Novo é um romance escrito por Aldous Huxley e publicado em 1932. A história se passa em Londres no ano 2540 e antecipa desenvolvimentos em tecnologia reprodutiva, manipulação psicológica e condicionamento clássico.",
+    "Data_de_publicação": "DD/MM/1932",
     "Autor": "Aldous Huxley",
     "Categoria":"Ficção Científica"
     
@@ -19,8 +20,8 @@
 
 {
     "Nome_da_obra": "Frankenstein",
-    "descricao": "",
-    "Data_de_publicação": "",
+    "descricao": "Frankenstein ou o Prometeu Moderno, mais conhecido simplesmente por Frankenstein, é um romance de terror gótico com inspirações do movimento romântico, de autoria de Mary Shelley, escritora britânica nascida em Londres.",
+    "Data_de_publicação": "DD/MM/1818",
     "Autor": "Mary Shelley",
     "Categoria":"Ficção Científica"  
     
@@ -28,8 +29,8 @@
 
 {
     "Nome_da_obra": "Jogador Número 1",
-    "descricao": "",
-    "Data_de_publicação": "",
+    "descricao": "Ready Player One foi um livro escrito por Ernest Cline. O livro é um romance com uma temática futurista. A história se passa no ano de 2045, o mundo passa por uma grande crise energética, destruição e pobreza são os cenários mais comuns.",
+    "Data_de_publicação": "16/08/2011",
     "Autor": "Ernest Cline",
     "Categoria": "Ficção Científica"
     
@@ -37,8 +38,8 @@
 
 {
     "Nome_da_obra": "O mochileiro das galáxias – Livro 1",
-    "descricao": "",
-    "Data_de_publicação": "",
+    "descricao": "Considerado um dos maiores clássicos da literatura de ficção científica. Este é o primeiro título da famosa série escrita por Douglas Adams, o guia do vem encantando gerações de leitores ao redor do mundo com seu humor afiado.",
+    "Data_de_publicação": "03/11/2011",
     "Autor": "Douglas Adams",
     "Categoria": "Ficção Científica"
     
@@ -46,8 +47,8 @@
 
 {
     "Nome_da_obra": "O restaurante no fim do universo - O mochileiro das galáxias – Livro 2",
-    "descricao": "",
-    "Data_de_publicação": "",
+    "descricao": "O que você pretende fazer quando chegar ao Restaurante do Fim do Universo? A continuação das incríveis aventuras de Arthur Dent e seus quatro amigos através da galáxia começa a bordo da nave Coração de Ouro.",
+    "Data_de_publicação": "03/11/2009",
     "Autor": "Douglas Adams",
     "Categoria": "Ficção Científica"
     
@@ -55,8 +56,8 @@
 
 {
     "Nome_da_obra": "A vida, o universo e tudo mais - O mochileiro das galáxias – Livro 3",
-    "descricao": "",
-    "Data_de_publicação": "",
+    "descricao": "Após as loucas aventuras vividas com seus estranhos amigos em 'O guia do mochileiro das galáxias e O restaurante no fim do universo', Arthur Dent ficou cinco anos abandonado na Terra Pré-Histórica.",
+    "Data_de_publicação": "11/11/2009",
     "Autor": "Douglas Adams",
     "Categoria": "Ficção Científica"
     
@@ -64,8 +65,8 @@
 
 {
     "Nome_da_obra": "Até mais, e obrigado pelos peixes! - O mochileiro das galáxias – Livro 4",
-    "descricao": "",
-    "Data_de_publicação": "",
+    "descricao": "Com mais de 15 milhões de exemplares vendidos em todo o mundo e uma galeria interminável de fãs, a série que traz o inglês Arthur Dent e o extraterrestre Ford Prefect como protagonistas de loucas aventuras espaciais chega ao fim.",
+    "Data_de_publicação": "03/11/2009",
     "Autor": "Douglas Adams",
     "Categoria": "Ficção Científica"
     
@@ -73,17 +74,18 @@
 
 {
     "Nome_da_obra": "Praticamente inofensiva - O mochileiro das galáxias – Livro 5",
-    "descricao": "",
-    "Data_de_publicação": "",
+    "descricao": "O livro até hoje inédito no Brasil, Praticamente Inofensiva é tão polêmico quanto seu criador. É o último volume O Mochileiro das galáxias e outros afirmam tratar-se de um título independente, que apenas utiliza os mesmos personagens. ",
+    "Data_de_publicação": "01/01/2010",
     "Autor": "Douglas Adams",
     "Categoria": "Ficção Científica"
     
 },
 
+
 {
     "Nome_da_obra": "E tem outra coisa - O mochileiro das galáxias – Livro 6",
-    "descricao": "",
-    "Data_de_publicação": "",
+    "descricao": "E Tem Outra Coisa... é o sexto livro do Guia dos Mochileiros das galáxias. O livro é escrito por Eoin Colfer, autor da série Artemis Fowl.",
+    "Data_de_publicação": "11/10/2009",
     "Autor": "Douglas Adams",
     "Categoria": "Ficção Científica"
     
@@ -91,8 +93,8 @@
 
 {
     "Nome_da_obra": "Island - A ilha",
-    "descricao": "",
-    "Data_de_publicação": "",
+    "descricao": "A Ilha, publicado em 1962 e último livro de Aldous Huxley publicado com ele ainda em vida. É um romance que se passa numa ilha, onde as pessoas são do jeito como o autor acha que todos os seres humanos deveriam ser para viverem plenamente.",
+    "Data_de_publicação": "DD/MM/1962",
     "Autor": "Aldous Huxley",
     "Categoria": "Ficção Filosófica"
     
@@ -100,8 +102,8 @@
 
 {
     "Nome_da_obra": "O Mundo de Sofia",
-    "descricao": "",
-    "Data_de_publicação": "",
+    "descricao": "O Mundo de Sofia é um romance escrito por Jostein Gaarder, publicado em 1991. O livro foi escrito originalmente em norueguês, mas já foi traduzido para mais de 60 línguas.",
+    "Data_de_publicação": "05/12/1991",
     "Autor": "Jostein Gaarder",
     "Categoria": "Ficção Filosófica"
     
@@ -109,8 +111,8 @@
 
 {
     "Nome_da_obra": "Assim Falou Zaratustra",
-    "descricao": "",
-    "Data_de_publicação": "",
+    "descricao": "Assim falou Zaratustra: um livro para todos e para ninguém é um livro escrito entre 1883 e 1885 pelo filósofo alemão Friedrich Nietzsche, que influenciou significativamente o mundo moderno.",
+    "Data_de_publicação": "DD/MM/1883",
     "Autor": "Friedrich Nietzsche",
     "Categoria": "Ficção Filosófica"
     
@@ -118,8 +120,8 @@
 
 {
     "Nome_da_obra": "O Principe",
-    "descricao": "",
-    "Data_de_publicação": "",
+    "descricao": "O Príncipe é um livro escrito por Nicolau Maquiavel em 1513, cuja primeira edição foi publicada postumamente, em 1532.",
+    "Data_de_publicação": "DD/MM/1532",
     "Autor": "Niccolò Machiavelli",
     "Categoria": "Ficção Filosófica"
     
@@ -127,26 +129,26 @@
 
 {
     "Nome_da_obra": "A invenção das mulheres",
-    "descricao": "",
-    "Data_de_publicação": "",
+    "descricao": "Marco referencial no campo dos estudos de gênero, o livro da socióloga nigeriana Oyèrónkẹ́ Oyěwùmí oferece uma nova maneira de compreender o papel social da mulher a partir de referências africanas.",
+    "Data_de_publicação": "16/04/2021",
     "Autor": "Oyeronke Oyewumi",
     "Categoria": "Ciências Sociais"
     
 },
 
 {
-    "Nome_da_obra": "Almakia I: A vilashi e os Dragões ",
-    "descricao": "",
-    "Data_de_publicação": "",
+    "Nome_da_obra": "Almakia I: A vilashi e os Dragões",
+    "descricao": "Em um mundo onde existem pessoas com capacidades extraordinárias vivendo em uma sociedade abastada e preconceituosa, desde pequena Garo-lin foi uma garota deslocada: uma vilashi frequentando o exclusivo Instituto de Almaki Dul’Maojin.",
+    "Data_de_publicação": "03/10/2018",
     "Autor": "Lhaisa Andria",
     "Categoria": "Fantasia"
     
 },
 
 {
-    "Nome_da_obra": "Contos de Imaginação e Mistério ",
-    "descricao": "",
-    "Data_de_publicação": "",
+    "Nome_da_obra": "Contos de Imaginação e Mistério",
+    "descricao": "Em 1919 a editora londrina George G. Harrap & Co. lançou uma antologia de contos de Edgar Allan Poe, que àquela altura já era reconhecido como o pai das histórias de suspense e mistério.",
+    "Data_de_publicação": "DD/MM/1839",
     "Autor": "Edgar Allan Poe",
     "Categoria": "Terror"
     
@@ -154,8 +156,8 @@
 
 {
     "Nome_da_obra": "Uma história feita por mãos negras",
-    "descricao": "",
-    "Data_de_publicação": "",
+    "descricao": "Historiadora, professora, poeta e ativista, Beatriz Nascimento deixou um legado intelectual múltiplo e profundo. Esta coletânea oferece um panorama amplo de seu pensamento, reunindo alguns de seus principais artigos, ensaios e resenhas.",
+    "Data_de_publicação": "07/06/2021",
     "Autor": "Beatriz Nascimento",
     "Categoria": "Ciências Sociais"
     
